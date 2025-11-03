@@ -126,10 +126,12 @@ section.manual p{
 	margin-bottom: 40px;
 }
 
-@media screen and (max-width: 900px) {
-	img {
-    width: 100%;
-    height: auto;
+@media (max-width: 900px){
+  section.cafe article{
+    flex-basis: 100%;
+    max-width: 100%;
   }
+  img{ width:100%; height:auto; }
 }
+
 	

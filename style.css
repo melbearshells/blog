@@ -127,4 +127,9 @@ section.manual p{
 }
 
 @media screen and (max-width: 900px) {
+	img {
+    width: 100%;
+    height: auto;
+  }
+}
 	

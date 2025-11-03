@@ -165,7 +165,10 @@ section.group article {
   section.group p {
     margin: 0 8px 16px 8px;
   }
-
+.title{
+	padding: 50px;
+}
+	
 }
 
 	

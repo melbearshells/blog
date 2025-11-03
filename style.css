@@ -145,6 +145,20 @@ section.manual p{
   section.manual article {
     padding: 12px;
   }
+	
+section.group article {
+    flex-direction: column;      /* 이미지 위 / 글 아래 */
+    align-items: center;         /* 중앙 정렬 */
+    text-align: center;          /* 글도 중앙 맞춤 */
+  }
+
+  section.group h3 {
+    margin: 16px 0 8px 0;        /* 모바일용 제목 간격 */
+  }
+
+  section.group p {
+    margin: 0 8px 16px 8px;
+  }
 
 }
 

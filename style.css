@@ -50,7 +50,7 @@ h3{
 li {
 	list-style: none;
 	white-space: nowrap;
-	padding: 10px clamp(10px, 4.5vw, 100px);
+	padding: 10px clamp(8px, 4vw, 80px);
 	font-size: 20px;
 	background: #BF8450;
 	color: #F2F2F2;

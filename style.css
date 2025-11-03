@@ -49,8 +49,8 @@ h3{
 li {
 	list-style: none;
 	flex-wrap: nowrap;
+	padding: 10px clamp(20px, 6vw, 100px)
 	font-size: 20px;
-	padding: 10px 100px;
 	background: #BF8450;
 	color: #F2F2F2;
 }

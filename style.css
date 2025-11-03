@@ -60,8 +60,7 @@ ul{
 	display: flex;
 	align-items: center;
 	justify-content: space-evenly;
-	flex-wrap: nowrap;
-	gap: 0;           
+	flex-wrap: nowrap;        
 	flex-direction: row;
 	margin: 10px;
 	padding: 0;
@@ -167,7 +166,7 @@ section.group article {
   }
 	
 	.title{
-	padding: 50px;
+	padding: 30px;
 	}
 	
 }
